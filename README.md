@@ -8,4 +8,5 @@
   <li>Keeping formating in the worksheet poses a risk of breaking the data readability and impacting on the final analysis.</li>
   <li>From my experience there were always problems with keeping proper data types for dates, numbers, currencies and strings for data being stored in excel worksheet</li>
   <li>Excel has no standardized way of handling a missing data.</li>
+  <li>Excel is slow porcessing a large data set unless you use Power Query which may be a remedy</li>
 </ul>
