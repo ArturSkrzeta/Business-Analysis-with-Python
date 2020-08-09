@@ -1,5 +1,5 @@
 <h2>Business Analysis with Python</h2>
-
+<h3>Here are my couple of whys I tend to transfer my analysis from Excel to Python:</h3>
 <ul>
   <li>Doing Business Analysis with Python ensures analysis process separation from the data and numbers being calculated.</li>
   <li>In Python, it's much simpler to follow the analysis logic (line by line - from top to bottom - from left to right) as opposed to excel where we keep hidden formulas within cells put all over the worksheet.</li>
