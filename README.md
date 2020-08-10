@@ -14,3 +14,8 @@
   <li>Excel is slow porcessing a large data set unless you use Power Query which may be a remedy.</li>
   <li>From my perspective, it looks like Python is a perfect tool to resolve all mentioned excel problems.</li>
 </ul>
+<h3>After a quick prolog of hating excel here is the intro to my project case</h3>
+<ul>
+  <li>In Jupyter Notebook, I perfom short business analysis of sales dataset.</li>
+  <li>For each segment of the analysis, I try my best to take important insights with conclusions that will improve business processes.</li>
+<ul>
