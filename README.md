@@ -17,5 +17,5 @@
 <h3>After a quick prolog of hating excel here is the intro to my project case</h3>
 <ul>
   <li>In Jupyter Notebook, I perfom short business analysis of sales dataset.</li>
-  <li>For each segment of the analysis, I try my best to make insights that will lead business processes.</li>
+  <li>For each segment of the analysis, I try my best to make business insighst on where to start looking for improvements at sales.</li>
 <ul>
